@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.farwa.cv.base",
+    "sha256_cert_fingerprints":
+    ["C2:8F:D6:69:73:24:AA:4A:51:09:BF:66:90:BA:43:19:17:30:5C:CC:6E:9B:73:19:85:B2:25:E2:AB:5D:64:ED"]
+  }
+}]
